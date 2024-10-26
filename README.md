@@ -1,4 +1,4 @@
-# control-valve-stiction-
+# control-valve-stiction-reference 
 This is my undergraduate project for non-invasive control valve stiction qutification implementation.
 
 First thesis implementation is based on S. K. Damarla, X. Sun, F. Xu, A. Shah, and B. Huang, "Statistical test-based practical methods for detection and quantification of stiction in control valves," Industrial & Engineering Chemistry Research, vol. 62, no. 12, pp. xxx-xxx, 2023. 
