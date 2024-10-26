@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.svm import SVR
 from sklearn.metrics import mean_squared_error
 from new_project.final.function_file import aggregate_points, train_test_split, partial_shuffle
-from new_project.essay_2.sigmoid_class import Sigmoid
+from new_project.thesis_2.sigmoid_class import Sigmoid
 import joblib
 import scipy.io
 import matplotlib.pyplot as plt
@@ -190,4 +190,3 @@ class Svr():
         # plt.show()
         # Save fig for create gif
         plt.savefig(f"c_{self.c_s}_and_epsilon_{self.epsilon_s}.png")
-
