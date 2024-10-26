@@ -11,4 +11,4 @@ Third theis implementation is based on S. K. Damarla, X. Sun, F. Xu, A. Shah, J.
 using linear regression to get slope to quantify.
 
 
-![stiction valve behavior](images/3-Figure2-1.png)
+![stiction valve behavior](images/stiction_behavior.png)
