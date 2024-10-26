@@ -1,8 +1,8 @@
 import numpy as np
 import scipy.io
-from new_project.essay_3.linear_regression_class import Linear_Rregression
-from new_project.essay_3.quantification_class import Quantificatioin
-from new_project.essay_3.method_stiction_class import stiction_signal_plot
+from new_project.thesis_3.linear_regression_class import Linear_Rregression
+from new_project.thesis_3.quantification_class import Quantificatioin
+from new_project.thesis_3.method_stiction_class import stiction_signal_plot
 
 
 """import data from idsb"""

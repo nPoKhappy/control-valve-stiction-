@@ -3,7 +3,7 @@
 import numpy as np
 from sklearn.metrics import mean_squared_error
 from new_project.final.function_file import aggregate_points, train_test_split, partial_shuffle
-from new_project.essay_2.sigmoid_class import Sigmoid
+from new_project.thesis_2.sigmoid_class import Sigmoid
 import joblib
 import scipy.io
 

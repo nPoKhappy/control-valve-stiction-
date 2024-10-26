@@ -1,5 +1,5 @@
 import scipy.io
-from new_project.essay_2.sigmoid_class import Sigmoid
+from new_project.thesis_2.sigmoid_class import Sigmoid
 import numpy as np
 """import data from idsb"""
 # Load the .mat file

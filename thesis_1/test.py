@@ -1,11 +1,11 @@
 import scipy.io
 import numpy as np
-from new_project.essay_1.method1_class import Method1
-from new_project.essay_1.method2_class import Method2
-from new_project.essay_1.method3_class import Method3
-from new_project.essay_1.method4_class import Method4
-from new_project.essay_1.quantification_class import Quantification
-from new_project.essay_1.method_stiction_class import stiction_signal_plot
+from new_project.thesis_1.method1_class import Method1
+from new_project.thesis_1.method2_class import Method2
+from new_project.thesis_1.method3_class import Method3
+from new_project.thesis_1.method4_class import Method4
+from new_project.thesis_1.quantification_class import Quantification
+from new_project.thesis_1.method_stiction_class import stiction_signal_plot
 # Load the .mat file
 mat_contents = scipy.io.loadmat('new_project/isdb10.mat')
 
