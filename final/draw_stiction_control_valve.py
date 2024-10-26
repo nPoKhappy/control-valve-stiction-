@@ -2,7 +2,7 @@
 
 import os
 import scipy.io
-from new_project.essay_2.sigmoid_class import Sigmoid
+from new_project.thesis_2.sigmoid_class import Sigmoid
 from PIL import Image
 
 

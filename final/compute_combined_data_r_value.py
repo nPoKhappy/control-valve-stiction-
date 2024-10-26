@@ -1,6 +1,6 @@
 """test combined data from data.py to see the R output"""
 import numpy as np
-from new_project.essay_2.sigmoid_class import Sigmoid
+from new_project.thesis_2.sigmoid_class import Sigmoid
 import matplotlib.pyplot as plt
 from new_project.final.function_file import aggregate_points
 

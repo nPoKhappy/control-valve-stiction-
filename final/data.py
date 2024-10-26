@@ -1,5 +1,5 @@
 """Combine vavle performance decay data."""
-from new_project.essay_1.plot import plot_pv_sp_op
+from new_project.thesis_1.plot import plot_pv_sp_op
 import numpy as np
 import scipy.io
 import matplotlib.pyplot as plt
